@@ -1,0 +1,6 @@
+{
+  "name": "Health Rider & MediCommand Contract Operations Platform",
+  "description": "ระบบบริหารสัญญาโรงพยาบาล Health Rider ศูนย์สั่งการและบริหารสัญญา MediCommand Enterprise Command Center พร้อมระบบพยากรณ์การใช้วงเงิน AI และ AM Task Flow",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
